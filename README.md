@@ -16,6 +16,8 @@
 
 api自己填就可以
 
+！本程序需要有 [假地址生成器](https://github.com/DuanQiaos/Fake_addr_generator) 才能成功运行
+
 ---
 
 12/24
